@@ -10,10 +10,10 @@
 /* .SingleColorPalette .ColorBox {
   height: 50%;
 } */
-.ColorBox.go-back {
+/* .ColorBox.go-back {
   background-color: black;
   cursor: default;
-}
+} */
 .copy-button,
 .back-button {
   width: 100px;
